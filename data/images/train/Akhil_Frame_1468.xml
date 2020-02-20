@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Raghu_DS</folder>
-	<filename>Raghu_Frame_832.jpg</filename>
-	<path>/Users/i859396/Downloads/Raghu_DS/Raghu_Frame_832.jpg</path>
+	<filename>Akhil_Frame_1468.jpg</filename>
+	<path>/Users/i859396/Downloads/Raghu_DS/Akhil_Frame_1468.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>helmet</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>106</xmin>
-			<ymin>229</ymin>
-			<xmax>450</xmax>
-			<ymax>465</ymax>
+			<xmin>50</xmin>
+			<ymin>198</ymin>
+			<xmax>358</xmax>
+			<ymax>375</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Raghu_DS</folder>
-	<filename>Raghu_Frame_832.jpg</filename>
-	<path>/Users/i859396/Downloads/Raghu_DS/Raghu_Frame_832.jpg</path>
+	<filename>Akhil_Frame_3493.jpg</filename>
+	<path>/Users/i859396/Downloads/Raghu_DS/Akhil_Frame_3493.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>106</xmin>
-			<ymin>229</ymin>
+			<xmin>181</xmin>
+			<ymin>65</ymin>
 			<xmax>450</xmax>
-			<ymax>465</ymax>
+			<ymax>226</ymax>
 		</bndbox>
 	</object>
 </annotation>
