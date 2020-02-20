@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resized</folder>
-	<filename>Samarth_Frame_1528.jpg</filename>
-	<path>/Users/i856520/Documents/Safety_DS_400/Train/resized/Samarth_Frame_1528.jpg</path>
+	<filename>Samarth_Frame_1489.jpg</filename>
+	<path>/Users/i856520/Documents/Safety_DS_400/Train/resized/Samarth_Frame_1489.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>helmet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>32</xmin>
-			<ymin>38</ymin>
-			<xmax>379</xmax>
-			<ymax>228</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>glasses</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>92</xmin>
-			<ymin>304</ymin>
-			<xmax>339</xmax>
-			<ymax>390</ymax>
+			<xmin>125</xmin>
+			<ymin>310</ymin>
+			<xmax>392</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>68</ymin>
+			<xmax>404</xmax>
+			<ymax>236</ymax>
 		</bndbox>
 	</object>
 </annotation>

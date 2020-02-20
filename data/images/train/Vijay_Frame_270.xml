@@ -1,7 +1,7 @@
 <annotation>
 	<folder>resized</folder>
-	<filename>Samarth_Frame_1528.jpg</filename>
-	<path>/Users/i856520/Documents/Safety_DS_400/Train/resized/Samarth_Frame_1528.jpg</path>
+	<filename>Vijay_Frame_270.jpg</filename>
+	<path>/Users/i856520/Documents/Safety_DS_400/Train/resized/Vijay_Frame_270.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
-			<ymin>38</ymin>
-			<xmax>379</xmax>
-			<ymax>228</ymax>
+			<xmin>171</xmin>
+			<ymin>238</ymin>
+			<xmax>435</xmax>
+			<ymax>331</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>92</xmin>
-			<ymin>304</ymin>
-			<xmax>339</xmax>
-			<ymax>390</ymax>
+			<xmin>210</xmin>
+			<ymin>407</ymin>
+			<xmax>399</xmax>
+			<ymax>474</ymax>
 		</bndbox>
 	</object>
 </annotation>
