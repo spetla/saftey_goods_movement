@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>234</xmin>
-			<ymin>602</ymin>
-			<xmax>440</xmax>
-			<ymax>685</ymax>
+			<xmin>235</xmin>
+			<ymin>603</ymin>
+			<xmax>441</xmax>
+			<ymax>686</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>helmet</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>223</xmin>
-			<ymin>364</ymin>
-			<xmax>447</xmax>
-			<ymax>555</ymax>
+			<xmin>195</xmin>
+			<ymin>357</ymin>
+			<xmax>450</xmax>
+			<ymax>590</ymax>
 		</bndbox>
 	</object>
 </annotation>

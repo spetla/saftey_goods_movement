@@ -17,22 +17,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>201</xmin>
+			<xmin>191</xmin>
 			<ymin>155</ymin>
 			<xmax>450</xmax>
-			<ymax>276</ymax>
+			<ymax>324</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>glasses</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>228</xmin>
-			<ymin>344</ymin>
-			<xmax>450</xmax>
-			<ymax>419</ymax>
+			<xmin>234</xmin>
+			<ymin>338</ymin>
+			<xmax>449</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 </annotation>

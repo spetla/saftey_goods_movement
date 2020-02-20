@@ -14,13 +14,13 @@
 	<object>
 		<name>helmet</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>16</xmin>
+			<xmin>1</xmin>
 			<ymin>114</ymin>
-			<xmax>341</xmax>
-			<ymax>343</ymax>
+			<xmax>380</xmax>
+			<ymax>377</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>96</xmin>
-			<ymin>403</ymin>
-			<xmax>321</xmax>
-			<ymax>476</ymax>
+			<xmin>95</xmin>
+			<ymin>391</ymin>
+			<xmax>318</xmax>
+			<ymax>492</ymax>
 		</bndbox>
 	</object>
 </annotation>
